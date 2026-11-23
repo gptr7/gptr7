@@ -1,16 +1,24 @@
-## Hi there 👋
+<!-- Public profile README for gptr7. -->
 
-<!--
-**gptr7/gptr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<td width="24%" valign="middle">
+<img src="portrait.jpg" width="210" alt="Юрий" />
+</td>
+<td width="76%" valign="middle">
+<img src="profile.svg" width="720" alt="Юрий — промпт-инженер и исследователь ИИ, технологий и психологии. Смысловая упаковка, коммуникации, агенты, память и автоматизация." />
+</td>
+</tr>
+</table>
 
-Here are some ideas to get you started:
+### Привет, я Юрий
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Промпт-инженер и исследователь ИИ, технологий и психологии. Работаю со смысловой упаковкой, копирайтингом и коммуникационными стратегиями.
+
+- **ИИ и исследования:** промпты, агентные сценарии, проверка источников и гипотез.
+- **Коммуникации:** позиционирование, тексты и представление брендов.
+- **Интересы:** персональные системы знаний, память, автоматизация и инструменты для мышления.
+
+**Мой подход:** понять контекст → сформулировать задачу → проверить идею на практике.
+
+<sub>Исследовать · проверять · создавать</sub>

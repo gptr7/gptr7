@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="590" viewBox="0 0 960 590" role="img" aria-labelledby="title desc">
+<title id="title">Юрий — промпт-инженер и исследователь</title>
+<desc id="desc">ИИ, технологии и психология. Смысловая упаковка и коммуникации. Контекст, идея, эксперимент.</desc>
+<rect x="1" y="1" width="958" height="588" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<path d="M19 1H941Q959 1 959 19V51H1V19Q1 1 19 1Z" fill="#161b22"/>
+<g><circle cx="25" cy="26" r="5" fill="#ff7b72"/><circle cx="44" cy="26" r="5" fill="#e3b341"/><circle cx="63" cy="26" r="5" fill="#3fb950"/></g>
+<text x="95" y="32" fill="#8b949e" font-family="monospace" font-size="14">gptr7 / README.md</text>
+<text x="38" y="96" fill="#7ee787" font-family="monospace" font-size="18">yuri@gptr7:~$ whoami</text>
+<text x="36" y="160" fill="#f0f6fc" font-family="sans-serif" font-size="48" font-weight="700">Юрий</text>
+<text x="38" y="198" fill="#79c0ff" font-family="monospace" font-size="17">AI RESEARCH · PROMPT ENGINEERING · COMMUNICATION</text>
+<line x1="38" y1="222" x2="922" y2="222" stroke="#30363d"/>
+
+<text x="38" y="258" fill="#e3b341" font-family="monospace" font-size="18">role</text>
+<text x="180" y="258" fill="#c9d1d9" font-family="sans-serif" font-size="21">Промпт-инженер · исследователь</text>
+<text x="38" y="291" fill="#e3b341" font-family="monospace" font-size="18">focus</text>
+<text x="180" y="291" fill="#c9d1d9" font-family="sans-serif" font-size="21">ИИ, технологии и психология</text>
+<text x="38" y="324" fill="#e3b341" font-family="monospace" font-size="18">practice</text>
+<text x="180" y="324" fill="#c9d1d9" font-family="sans-serif" font-size="21">Смысловая упаковка и коммуникации</text>
+<text x="38" y="357" fill="#e3b341" font-family="monospace" font-size="18">approach</text>
+<text x="180" y="357" fill="#c9d1d9" font-family="sans-serif" font-size="21">Контекст → идея → эксперимент</text>
+<text x="38" y="390" fill="#e3b341" font-family="monospace" font-size="18">interests</text>
+<text x="180" y="390" fill="#c9d1d9" font-family="sans-serif" font-size="21">Агенты · память · автоматизация</text>
+<text x="38" y="423" fill="#e3b341" font-family="monospace" font-size="18">research</text>
+<text x="180" y="423" fill="#c9d1d9" font-family="sans-serif" font-size="21">Проверка источников и гипотез</text>
+<text x="38" y="456" fill="#e3b341" font-family="monospace" font-size="18">language</text>
+<text x="180" y="456" fill="#c9d1d9" font-family="sans-serif" font-size="21">Русский</text>
+<text x="38" y="489" fill="#e3b341" font-family="monospace" font-size="18">profile</text>
+<text x="180" y="489" fill="#c9d1d9" font-family="sans-serif" font-size="21">github.com/gptr7</text>
+<line x1="38" y1="516" x2="922" y2="516" stroke="#30363d"/>
+<text x="38" y="556" fill="#8b949e" font-family="monospace" font-size="16">исследовать · проверять · создавать</text>
+<rect x="890" y="540" width="12" height="20" fill="#7ee787"/>
+</svg>

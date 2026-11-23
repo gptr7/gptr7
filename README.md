@@ -2,11 +2,11 @@
 
 <table>
 <tr>
-<td width="24%" valign="middle">
-<img src="portrait.jpg" width="210" alt="Юрий" />
+<td width="34%" valign="middle">
+<img src="ascii-portrait.png" width="320" alt="Портрет Юрия из букв и символов" />
 </td>
-<td width="76%" valign="middle">
-<img src="profile.svg" width="720" alt="Юрий — промпт-инженер и исследователь ИИ, технологий и психологии. Смысловая упаковка, коммуникации, агенты, память и автоматизация." />
+<td width="66%" valign="middle">
+<img src="profile.svg" width="620" alt="Юрий — промпт-инженер и исследователь ИИ, технологий и психологии. Смысловая упаковка, коммуникации, агенты, память и автоматизация." />
 </td>
 </tr>
 </table>
